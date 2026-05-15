@@ -1,0 +1,2 @@
+Finding ID,Finding,Risk Area,Severity,Impact,Root Cause,Recommendation,Owner
+AML-001,Fraud monitoring system did not identify all actual fraudulent transactions.,AML / Fraud Monitoring,Critical,"Missed fraud transactions may create financial loss, regulatory exposure, and delayed suspicious activity review.",Current monitoring thresholds and system fraud flags may not capture all fraudulent transaction patterns.,"Enhance fraud detection rules, review missed fraud typologies, recalibrate thresholds, and perform recurring monitoring quality assurance.",Fraud Compliance Team

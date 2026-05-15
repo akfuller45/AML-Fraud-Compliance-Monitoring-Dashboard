@@ -1,0 +1,7 @@
+Monitoring Rule,Transactions Flagged,Fraud Captured,Fraud Capture Rate %,Precision Rate %
+High Value Flag,318131,3803,46.3,1.2
+Very High Value Flag,63627,1969,23.97,3.09
+Full Balance Drain,1520581,8012,97.55,0.53
+Origin Balance Inconsistency,5077691,45,0.55,0.0
+Destination Balance Inconsistency,4188647,4640,56.5,0.11
+Alert Triggered,1985367,8213,100.0,0.41
